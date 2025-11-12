@@ -1,0 +1,23 @@
+.container{
+    padding: 20px;
+    background-color: #d7b37e;
+    text-align: center;
+}
+
+.header {
+    background-color: #1d2675;  
+    text-align: left;
+}
+
+
+.pizza {
+    background-color: #f4e1c1;  
+}
+
+.menu {
+    background-color: beige;
+}
+
+.footer {
+    background-color: rgb(211, 190, 144);
+}
