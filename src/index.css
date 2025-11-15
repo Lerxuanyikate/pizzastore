@@ -10,8 +10,20 @@
 }
 
 
+.pizzas {
+  display: flex;
+  flex-wrap: wrap;      
+  gap: 20px;         
+  justify-content: center; 
+}
+
 .pizza {
-    background-color: #f4e1c1;  
+  width: 200px;        
+  text-align: center;
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 10px;
+  background: #fff;
 }
 
 .menu {

@@ -30,19 +30,19 @@ function Menu() {
                 name: "Pepperoni", 
                 ingredients: "Tomato, Mozzarella, Pepperoni", 
                 price: 12, 
-                photoName: ""
+                photoName: "pizza/pepperoni.png"
             },
             {
                 name: "Hawaiian", 
                 ingredients: "Tomato, Mozzarella, Ham, Pineapple", 
                 price: 12, 
-                photoName: "https://example.com/hawaiian.jpg"
+                photoName: "pizza/hawaiian.png"
             },
             {
                 name: "Veggie", 
                 ingredients: "Tomato, Mozzarella, Bell Peppers, Olives, Onions", 
                 price: 9, 
-                photoName: "https://example.com/veggie.jpg"
+                photoName: "pizza/veggie.png"
             },
         ];
         return (
