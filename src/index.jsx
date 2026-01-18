@@ -5,7 +5,7 @@ import './index.css';
 function Header() {
     return <h1 style={{color: "red", fontSize: "42px", textAlign: "screenLeft"}}> Kate Ler's Pizza </h1>;
 }   
-
+//test
 function Pizza( {
     name, ingredients, price, photoName
 }) {
